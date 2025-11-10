@@ -59,3 +59,19 @@ QuickWrt/
 1. 将软件包放入 `OpenBox/package/` 目录
 2. 在对应的配置文件中启用相关选项
 3. 重新执行构建脚本
+
+#### Top Repositories
+
+<a href="https://github.com/QuickWrt/QuickWrt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuickWrt&repo=QuickWrt&theme=buefy" />
+</a>
+<a href="https://github.com/QuickWrt/openwrt_packages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuickWrt&repo=openwrt_packages&theme=buefy" />
+</a>
+<a href="https://github.com/QuickWrt/QuickWrt-Scripts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuickWrt&repo=QuickWrt-Scripts&theme=buefy" />
+</a>
+<a href="https://github.com/QuickWrt/ZeroWrt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuickWrt&repo=ZeroWrt&theme=buefy" />
+</a>
+<br />
